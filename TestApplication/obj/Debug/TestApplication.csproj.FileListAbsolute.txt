@@ -1,1 +1,2 @@
 C:\Users\User\Documents\Nextekk\Github\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\User\Documents\Nextekk\Github\Nextekk_Training\TestApplication\bin\Debug\TestApplication.exe.config
